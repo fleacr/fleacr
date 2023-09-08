@@ -2,7 +2,7 @@
 <h2>Frontend Developer 🖼️</h2>
 
 ### About Me
-- I am 26 years old and I am from Rosario, Argentina.
+- I am 26 years old frontend developer enthusiast from Costa Rica
 - Currently learning Tailwind, Javascript and React.
 - I am a self-taught and highly creative individual who seeks to learn and improve every day.
 - I enjoy creating and delivering a high quality user experience.
@@ -12,7 +12,6 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-
 
 
 ### Contact Me
