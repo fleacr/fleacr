@@ -1,5 +1,5 @@
 <h1>Hello! I'm Alejandro Carvajal <img src="[https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif](https://i.gifer.com/4XCW.gif)" width="30px"> 🚀</h1>
-<h2>Frontend Developer 🖼️</h2>
+<h2>Frontend Developer🖼️</h2>
 
 ### About Me
 - I am 26 years old frontend developer enthusiast from Costa Rica
